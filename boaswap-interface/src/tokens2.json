@@ -5,7 +5,7 @@
   "timestamp": "2022-05-10T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xfE5D3c52F7ee9aa32a69b96Bfbb088Ba0bCd8EfC",
+      "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
       "chainId": 1281,
       "name": "A Game Token",
       "symbol": "GT-A",
@@ -14,7 +14,7 @@
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     },
     {
-      "address": "0x92496871560a01551E1B4fD04540D7A519D5C19e",
+      "address": "0xfE5D3c52F7ee9aa32a69b96Bfbb088Ba0bCd8EfC",
       "chainId": 1281,
       "name": "B Game Token",
       "symbol": "GT-B",
